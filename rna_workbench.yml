@@ -114,6 +114,10 @@ tools:
   owner: erasmus-medical-center
   tool_panel_section_label: "RNA-Seq"  
 
+- name: transdecoder
+  owner: iuc
+  tool_panel_section_label: "RNA-Seq"
+
 # RNA Target Prediction
 
 - name: targetfinder
